@@ -1,6 +1,4 @@
 # HRG56.github.io
-
-#
 <!doctype html>
 <html dir="ltr" lang="en">
   <head>
